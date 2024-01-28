@@ -32,6 +32,8 @@ And all of the people that contributed to the project :)
 
 ## Disclaimer
 
+unlimited money
+
 Use this mod menu at your own risk. We arent responsible for any of ur bans. Be aware that modding is against [Forza's Code Of Conduct](https://support.forzamotorsport.net/hc/en-us/articles/360035563914).
 
 Note: We (all of the official developers) do NOT plan on adding any new features to FH4, the game is at its EOL phase (the developers left that game to rot)
